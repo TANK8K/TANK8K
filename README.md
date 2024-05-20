@@ -17,7 +17,7 @@
 - 📝 I write articles and on [my website](https://tank8k.com)
 - 💬 Ask me about **Math and Python**
 - 📫 How to reach me: tank8kk@gmail.com
-- ⚡ Fun fact: I use <a href="https://pop.system76.com" target="blank"><img align="top" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Pop%21_OS_Icon.svg" height="28" width="28" />Pop!_OS</a>
+- ⚡ Fun fact: I use <a href="https://pop.system76.com" target="blank"><img align="top" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Pop%21_OS_Icon.svg" height="28" width="28" /></a> <a href="https://pop.system76.com" target="blank">Pop!_OS</a>
  & I 💖 [FOSS](https://www.wikiwand.com/en/Free_and_open-source_software).
 
 <hr>
