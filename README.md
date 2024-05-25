@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on [WinterPixelGames.com](https://github.com/TaNk8k/WinterPixelGames.com_streamlit_part)
 - 🤝 I’m looking for help with [WinterPixelGames.com](https://github.com/TaNk8k/WinterPixelGames.com_streamlit_part)
 > [!NOTE]
-> This website is not affiliated with or endorsed by [WinterpixelGames Inc.](https://www.winterpixel.com)
+> This website is NOT affiliated with or endorsed by [WinterpixelGames Inc.](https://www.winterpixel.com)
 
 <hr>
 
