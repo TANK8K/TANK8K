@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/25144142" target="blank"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" height="35" width="35" /></a>
-<a href="https://replit.com/@kTaNk8k" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/78/New_Replit_Logo.svg" height="35" width="35" /></a>
+<a href="https://replit.com/@TANK8K" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/78/New_Replit_Logo.svg" height="35" width="35" /></a>
 <a href="https://www.youtube.com/@tank8k" target="blank"><img align="center" src="https://www.svgrepo.com/show/343537/youtube-player-multimedia-video-communication-interaction.svg" height="35" width="35" /></a>
 <a href="https://discord.gg/9q2Nnt4wnd" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="35" width="35" /></a>
 </p>
