@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tank8k&label=Profile%20views&color=c061cb&style=flat" alt="tank8k" /> </p>
 <hr>
 
-- 🌱 I’m currently learning **Flask, Streamlit, Statistics**<br><br>
+- 🌱 I’m currently learning **Streamlit, Statistics**<br><br>
 - 🔭 I’m currently working on [WinterPixelGames.com](https://github.com/TaNk8k/WinterPixelGames.com_streamlit_part)
 - 👯 I’m looking to collaborate on [WinterPixelGames.com](https://github.com/TaNk8k/WinterPixelGames.com_streamlit_part)
 - 🤝 I’m looking for help with [WinterPixelGames.com](https://github.com/TaNk8k/WinterPixelGames.com_streamlit_part)
