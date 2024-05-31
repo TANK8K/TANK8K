@@ -37,7 +37,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452045/js.svg" width="35" height="35"/></a>
 <a href="https://gohugo.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/376327/hugo.svg" width="35" height="35"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452091/python.svg" width="35" height="35"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/508915/flask.svg" width="35" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="35" height="35"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="35" height="35"/></a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="35" height="35"/></a>
