@@ -32,6 +32,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448236/linux.svg" width="35" height="35"/></a>
+<a href="https://nvchad.com/" target="_blank" rel="noreferrer"><img src="https://nvchad.com/logo.svg" width="35" height="35"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452228/html-5.svg" width="35" height="35"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452185/css-3.svg" width="35" height="35"/><a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452045/js.svg" width="35" height="35"/></a>
