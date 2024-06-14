@@ -44,6 +44,8 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354127/numpy.svg" width="35" height="35"/></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" width="35" height="35"/></a>
 <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"><img src="https://svgshare.com/i/16EU.svg" width="35" height="35"/></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="35" height="35"/></a>
+ <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354115/nginx.svg" width="35" height="35"/></a>
 </p>
 
 ![TANK8K's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=tank8k&show_icons=true&theme=dracula&layout=compact)
